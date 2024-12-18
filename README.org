@@ -1,6 +1,10 @@
 * ESP01S Power Board
 ESP01s 供电底板
 
-* 图
+* EDA 软件
+KiCAD 8.0.7
+(docker image: linuxserver/kicad:8.0.7)
+
+* PCB 图
 [[/images/pcb1.png]]
 [[/images/pcb2.png]]
